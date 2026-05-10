@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea2d5c9830bf9cc",
+        "id": "3b1933cef16f93dd",
         "type": "tabs",
         "children": [
           {
-            "id": "eefc5099937a70ae",
+            "id": "01644a200d3cb840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "begin.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "begin"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "begin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для begin"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "begin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из begin"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "begin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура begin"
+              "title": "Структура"
             }
           }
         ]
@@ -184,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eefc5099937a70ae",
+  "active": "522541c1000c69e3",
   "lastOpenFiles": [
     "begin.md",
     "Добро пожаловать.md"
